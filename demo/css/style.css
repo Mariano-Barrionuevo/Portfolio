@@ -177,19 +177,14 @@ header {
     padding: 16px;
     
 }
-/* .header {
-    background: url('../media/fondo5dark.png');
-    
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 100%;
-  
-} */
+
 
 .header .contenedor-titulo {
     text-align: center;
     position: relative;
     z-index: 99;
+margin-top: 50px;
+
 }
 .img {
     position: fixed;
