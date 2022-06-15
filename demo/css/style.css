@@ -388,7 +388,7 @@ aside:last-of-type span {
   display: flex;
   text-align: center;
   justify-content: space-around;
-  margin: 150px 50px 0 50px;
+  margin: 0px 50px 0 50px;
 } 
 .card{
   background-color: rgba(0, 0, 0, 0);
@@ -409,7 +409,7 @@ border-radius: 10px;
   display: flex;
   text-align: center;
   justify-content: space-around;
-  margin: 150px 50px 0 50px;
+  margin: 0px 50px 0 50px;
 } 
 .cardTwo{
   background-color: rgba(255, 255, 255, 0);
@@ -459,7 +459,7 @@ border-radius: 10px;
 
       .swiper-slide img {
         display: block;
-        width: 100%;
+        width: 90%;
         border-radius: 10px;
       }
       .swiper-slide img:hover {
@@ -472,12 +472,12 @@ border-radius: 10px;
 .proyectos .modelo {
     font-size: 45px;
     text-align: center;
-    margin-top: -150px;
+    margin-top: 50px;
 }
 .proyectos .modeloTwo {
     font-size: 45px;
     text-align: center;
-    margin-top: -100px;
+    margin-top: 50px;
 }
 
 .proyectos .descripcion {
